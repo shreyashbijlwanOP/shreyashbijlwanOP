@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shreyashbijlwanOP
-- 👀 I’m interested in C++
+- 👀 I’m interested in C++ JS (MERN)
 
 - 🌱 I’m currently learning DS and Algo
 - 💞️ I’m looking to collaborate on ...
